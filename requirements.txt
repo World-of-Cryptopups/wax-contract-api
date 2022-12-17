@@ -1,0 +1,2 @@
+-e git+https://github.com/TheBoringDude/wax.py.git@8f9b26a4fe4d26f295e0b88abcc3b16dba6e9edb#egg=wax.py
+fastapi
